@@ -1,4 +1,4 @@
-# OBO CTF 2024
+# OBO CTF 2025
 
 This is a partial writeup (3/6) of the CTF that we organized during the [Off-By-One Conference 2025](https://offbyone.sg/) in Singapore.
 
